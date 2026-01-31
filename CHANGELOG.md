@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2026-01-31)
 
 <section class="issues">
 
@@ -25,7 +25,7 @@ This release closes the following issue:
 <details>
 
 -   [`c17a2b8`](https://github.com/stdlib-js/stdlib/commit/c17a2b82f75b42e06a296f7fec15f77130a48483) - **chore:** regenerate generated files _(by Athan Reines)_
--   [`40b4245`](https://github.com/stdlib-js/stdlib/commit/40b4245a2a2ddc1fc8d93ea54a6f629102a037bc) - **chore:** fix EditorConfig lint errors [(#5970)](https://github.com/stdlib-js/stdlib/pull/5970) _(by Kaushikgtm)_
+-   [`40b4245`](https://github.com/stdlib-js/stdlib/commit/40b4245a2a2ddc1fc8d93ea54a6f629102a037bc) - **chore:** fix EditorConfig lint errors [(#5970)](https://github.com/stdlib-js/stdlib/pull/5970) _(by Gautam Kaushik)_
 
 </details>
 
@@ -40,7 +40,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Kaushikgtm
+-   Gautam Kaushik
 
 </section>
 
