@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-deg2rad@esm/index.mjs';
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-deg2rad@v0.2.3-esm/index.mjs';
 ```
 
 #### deg2rad( N, dtypeX, x, strideX, dtypeY, y, strideY )
@@ -161,7 +161,7 @@ var uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-unifor
 import filledarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-dtypes@esm/index.mjs';
-import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-deg2rad@esm/index.mjs';
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-deg2rad@v0.2.3-esm/index.mjs';
 
 var dt;
 var x;
